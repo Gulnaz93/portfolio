@@ -1,2 +1,2 @@
 # Deployed Link
-https://github.com/Gulnaz93/portfolio.git
+https://gulnaz93.github.io/portfolio/
